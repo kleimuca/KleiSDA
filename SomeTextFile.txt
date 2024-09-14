@@ -1,1 +1,1 @@
-Some Text File to test Git
+Some Text File to test Git version 2
